@@ -18,9 +18,12 @@
 
 ### 👉 I study...
 - I am studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
-  - If you're curious about this project, please refer to **[this document](https://github.com/algoribi/BattleRoyal/blob/main/README.md)** .
+  - If you're curious about this project, please refer to **[this document.](https://github.com/algoribi/BattleRoyal/blob/main/README.md)**
 - I'm running an **algorithm study group**.
-  - If you want to know more about this, please refer to **[this document](https://github.com/algoribi/algorithm-study)** .
+  - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)**
+
+</br>
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
