@@ -19,7 +19,7 @@
 - I'm running an **algorithm study group**.
   - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)** </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
 
 ### 👉 I like...
 
@@ -34,8 +34,6 @@
 
 - 📖 I like to read books or watch movies and discuss together.
 - 🎨 I draw as a hobby.
-
-</br>
 
 ### ✨ Github Stats
 
