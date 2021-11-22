@@ -17,17 +17,14 @@
 - I am studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
   - If you're curious about this project, please refer to **[this document.](https://github.com/algoribi/BattleRoyal/blob/main/README.md)**
 - I'm running an **algorithm study group**.
-  - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)**
-
-</br>
-
+  - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)** </br>
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
 
 </br>
 
 ### 👉 I like...
 
-- 🎮 game
+- 🎮 game </br>
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
@@ -36,7 +33,7 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 
-- 🎞 I like to read books or watch movies and discuss together.
+- 📖 I like to read books or watch movies and discuss together.
 - 🎨 I draw as a hobby.
 
 </br>
@@ -48,8 +45,6 @@
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoribi&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>
-
-<br/>
 
 <!--
 **algoribi/algoribi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
