@@ -18,7 +18,8 @@
   - If you're curious about this project, please refer to **[this document.](https://github.com/algoribi/BattleRoyal/blob/main/README.md)**
 - I'm running an **algorithm study group**.
   - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)** </br>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
 
 </br>
 
