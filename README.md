@@ -9,14 +9,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!--유니티-->
-<a href="https://unity.com" target="_blank">
-<img src=https://img.shields.io/badge/Unity-%2324292e.svg?&style=for-the-badge&logo=unity&logoColor=white alt=unity" />
-</a>
-<!--언리얼엔진-->
-<a href="https://www.unrealengine.com/" target="_blank">
-<img src=https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white alt=unrealengine" />
-</a>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### 👉 I study...
 
@@ -27,9 +21,7 @@
 
 </br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={cinema36d})](https://solved.ac/{cinema36d})
 
 </br>
 
