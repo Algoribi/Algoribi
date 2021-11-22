@@ -21,8 +21,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
 
-</br>
-
 ### 👉 I like...
 
 - 🎮 game </br>
