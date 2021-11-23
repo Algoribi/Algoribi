@@ -14,7 +14,7 @@
 
 ### 👉 I study...
 
-- I am studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
+- I'm studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
   - If you're curious about this project, please refer to **[this document.](https://github.com/algoribi/BattleRoyal/blob/main/README.md)**
 - I'm running an **algorithm study group**.
   - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)** </br>
