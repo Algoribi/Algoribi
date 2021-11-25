@@ -15,9 +15,11 @@
 ### 👉 I study...
 
 - I'm studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
-  - If you're curious about this project, please refer to **[this document.](https://github.com/algoribi/BattleRoyal)**
+  - If you are curious about this project, refer to the **[BattleRoyal](https://github.com/algoribi/BattleRoyal)** repository.
+  - Prior to this project, I used **Unity** to complete two games. Please refer to **[ZombieDefence](https://github.com/algoribi/ZombieDefence)** and **[YellowBirds](https://github.com/algoribi/YellowBirds)**.
 - I'm running an **algorithm study group**.
-  - If you want to know more about this, please refer to **[this document.](https://github.com/algoribi/algorithm-study)** </br>
+  - If you want to know more about this, refer to the **[algorithm-study](https://github.com/algoribi/algorithm-study)** repository.
+  - I'm running a **[blog](https://algoribi.tistory.com/)** about solving algorithm problems. </br>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
 
@@ -31,7 +33,6 @@
 ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-
 - 📖 I like to read books or watch movies and discuss together.
 - 🎨 I draw as a hobby.
 
