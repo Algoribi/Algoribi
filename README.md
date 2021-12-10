@@ -4,7 +4,7 @@
 
 <br/>
 
-## Hi There 👋 I'm Shinhye Choi, an amateur game developer. 🇰🇷
+## Hi There 👋 I'm Shinhye Choi, an junior game developer. 🇰🇷
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
