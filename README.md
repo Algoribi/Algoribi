@@ -6,35 +6,7 @@
 
 ## Hi There 👋 I'm Shinhye Choi, an junior developer. 🇰🇷
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### 👉 I study...
-
-- I'm studying **Unreal Engine 4** by developing a ***Battle Royale-based fps*** game.
-  - If you are curious about this project, refer to the **[BattleRoyal](https://github.com/algoribi/BattleRoyal)** repository.
-  - Prior to this project, I used **Unity** to complete two games. Please refer to **[ZombieDefence](https://github.com/algoribi/ZombieDefence)** and **[YellowBirds](https://github.com/algoribi/YellowBirds)**.
-- I'm running an **algorithm study group**.
-  - If you want to know more about this, refer to the **[algorithm-study](https://github.com/algoribi/algorithm-study)** repository.
-  - I'm running a **[blog](https://algoribi.tistory.com/)** about solving algorithm problems. </br>
-
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cinema36d)](https://solved.ac/cinema36d/)
-
-### 👉 I like...
-
-- 🎮 game </br>
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-- 📖 I like to read books or watch movies and discuss together.
-- 🎨 I draw as a hobby.
 
 ### ✨ Github Stats
 
